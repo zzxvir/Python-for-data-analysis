@@ -1,0 +1,13 @@
+1. most python code will run substantially slowerly than code written in a compiled language like Java or C++:
+   so after fully learning and understanding how to use Python to build my own trading algo, i will begin to learn C++ to turn 
+my trading algo to high frequency level (HFT).
+
+2. essential python libraries:
+   a. NumPy: as the primary CONTAINER for data to be passed between algorithms.
+   b. pandas: one of the critical ingredients enabling Python to be a powerful and productive data analysis environment.
+      underline: for financial users, pandas features rich, high-performance time series functionality and tools well-suited
+                 for working with financial data.
+   c. matplotlib: producing plots and other 2D data visualizations
+   d. IPython: it provides a robust and productive environment for interactive and exploratory computing. It is an enhanced
+               Python shell designed to accelerate the writing, testing, and debugging of Python code.
+  
